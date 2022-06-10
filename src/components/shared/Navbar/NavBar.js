@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 export default function NavBar() {
   return (
     <>
@@ -11,10 +11,10 @@ export default function NavBar() {
             </div>
             <div className="navigation">
                 <ul className="flex">
-                    <li className="active"><a href="#">Home</a></li>
-                    <li><a href="#">WHITEPAPER</a></li>
-                    <li><a href="#">TOKENS</a></li>
-                    <li><a href="#">COLLECTION</a></li>   
+                    <li className="active"><Link to="/">HOME</Link></li>   
+                    <li><Link to="/whitepaper">WHITEPAPER</Link></li>   
+                    <li><Link to="/token">TOKENS</Link></li>   
+                    <li><Link to="/collection">COLLECTION</Link></li>   
                 </ul>
             </div>
         </div>
