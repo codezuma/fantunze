@@ -1,24 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import Footer from './components/shared/Footer/Footer';
+import Navbar from './components/shared/Navbar/NavBar';
+import FaqSection from './components/shared/FaqSection/FaqSection';
+
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from "react-router-dom";
+import CollectionPage from './components/shared/Pages/CollectionPage';
+import TokenPage from './components/shared/Pages/TokenPage';
+import BookGames from './components/shared/Pages/BookGames';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <BrowserRouter>
+      <Navbar></Navbar>
+        <Routes>
+          <Route path="/collection" element={<CollectionPage />} />
+          <Route path="token" element={<TokenPage />} />
+          <Route path="book" element={<BookGames />} />
+        </Routes>
+        <FaqSection></FaqSection>
+        <Footer></Footer>
+      </BrowserRouter>
+    </>
   );
 }
 

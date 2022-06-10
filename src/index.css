@@ -1,3 +1,5 @@
+@import url(./components/style/style.css);
+@import url(./components/style/responsive.css);
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
