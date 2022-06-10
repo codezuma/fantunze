@@ -7,7 +7,7 @@ export default function NavBar() {
     <div className="container flex align-center">
         <div className="head-wr flex align-center">
             <div className="logo">
-                <a href="/"><img src="assets/images/FANTUNEZ_LOGO.png" alt="" /></a>
+                <a href="/"><img src="/assets/images/FANTUNEZ_LOGO.png" alt="" /></a>
             </div>
             <div className="navigation">
                 <ul className="flex">

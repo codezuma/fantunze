@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="230.311" height="2005.01" viewBox="0 0 230.311 2005.01">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.01" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#13b14b"/>
+      <stop offset="0.198" stop-color="#53e5ff"/>
+      <stop offset="0.214" stop-color="#00e640"/>
+      <stop offset="0.425" stop-color="#09d900"/>
+      <stop offset="0.453" stop-color="#fde339"/>
+      <stop offset="0.632" stop-color="#fde339"/>
+      <stop offset="0.653" stop-color="#53e5ff"/>
+      <stop offset="0.851" stop-color="#23deff"/>
+      <stop offset="0.899" stop-color="#09d900"/>
+      <stop offset="1" stop-color="#0eb84a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_155" data-name="Group 155" transform="translate(719.927 -88.664) rotate(90)">
+    <g id="Group_154" data-name="Group 154" transform="translate(45.369 268.57)">
+      <g id="Group_141" data-name="Group 141" transform="translate(134.366 316.466)">
+        <path id="Path_10002" data-name="Path 10002" d="M1935.672,183.832H67.239c-12.567,0-22.752-8.752-22.752-19.549S54.673,144.73,67.239,144.73H1935.672c12.567,0,22.752,8.756,22.752,19.553S1948.239,183.832,1935.672,183.832Z" transform="translate(-44.487 -144.73)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Group_142" data-name="Group 142" transform="translate(110.419 298.634)">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="31.321" cy="31.321" r="31.321" transform="translate(6.064 6.063)" fill="#fff"/>
+        <path id="Path_10003" data-name="Path 10003" d="M75.943,215.088A37.384,37.384,0,1,1,113.332,177.7,37.425,37.425,0,0,1,75.943,215.088Zm0-62.642A25.257,25.257,0,1,0,101.2,177.7,25.28,25.28,0,0,0,75.943,152.446Z" transform="translate(-38.563 -140.319)" fill="#23b6e1"/>
+      </g>
+      <g id="Group_144" data-name="Group 144" transform="translate(917.071 298.634)">
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="31.321" cy="31.321" r="31.321" transform="translate(6.063 6.063)" fill="#fff"/>
+        <path id="Path_10005" data-name="Path 10005" d="M277.774,215.088A37.384,37.384,0,1,1,315.159,177.7,37.426,37.426,0,0,1,277.774,215.088Zm0-62.642A25.257,25.257,0,1,0,303.031,177.7,25.281,25.281,0,0,0,277.774,152.446Z" transform="translate(-240.39 -140.319)" fill="#f9ba00"/>
+      </g>
+      <g id="Group_157" data-name="Group 157" transform="translate(482.043 298.634)">
+        <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="31.321" cy="31.321" r="31.321" transform="translate(6.063 6.063)" fill="#fff"/>
+        <path id="Path_10005-2" data-name="Path 10005" d="M277.774,215.088A37.384,37.384,0,1,1,315.159,177.7,37.426,37.426,0,0,1,277.774,215.088Zm0-62.642A25.257,25.257,0,1,0,303.031,177.7,25.281,25.281,0,0,0,277.774,152.446Z" transform="translate(-240.39 -140.319)" fill="#00b253"/>
+      </g>
+      <g id="Group_145" data-name="Group 145" transform="translate(1320.395 298.634)">
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="31.321" cy="31.321" r="31.321" transform="translate(6.064 6.063)" fill="#fff"/>
+        <path id="Path_10006" data-name="Path 10006" d="M378.687,215.088A37.384,37.384,0,1,1,416.072,177.7,37.426,37.426,0,0,1,378.687,215.088Zm0-62.642A25.257,25.257,0,1,0,403.944,177.7,25.281,25.281,0,0,0,378.687,152.446Z" transform="translate(-341.303 -140.319)" fill="#23b6e1"/>
+      </g>
+    </g>
+    <g id="Group_156" data-name="Group 156" transform="translate(94.32 502.272)">
+      <path id="Path_10008" data-name="Path 10008" d="M200.44,170.228A87.086,87.086,0,1,0,93.461,254.945l19.893,26.72,19.893-26.72A87.057,87.057,0,0,0,200.44,170.228Z" transform="translate(212.205 269.009) rotate(180)" fill="#23b6e1"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="73.899" cy="73.899" r="73.899" transform="translate(-5.657 98.852) rotate(-45)" fill="#dbdbdb"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="58.475" cy="58.475" r="58.475" transform="translate(16.157 98.852) rotate(-45)" fill="#fff"/>
+      <text id="q4_2021" data-name="q4
+2021" transform="translate(92.271 98.78) rotate(-90)" fill="#13132e" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-16.919" y="0">q4</tspan><tspan x="-32.344" y="37">2021</tspan></text>
+    </g>
+    <g id="Group_158" data-name="Group 158" transform="translate(673.025 706.698) rotate(180)">
+      <path id="Path_10008-2" data-name="Path 10008" d="M200.44,170.228A87.086,87.086,0,1,0,93.461,254.945l19.893,26.72,19.893-26.72A87.057,87.057,0,0,0,200.44,170.228Z" transform="translate(212.205 270.594) rotate(180)" fill="#09d900"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="73.899" cy="73.899" r="73.899" transform="translate(203.361 101.438) rotate(135)" fill="#dbdbdb"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="58.475" cy="58.475" r="58.475" transform="translate(181.547 101.438) rotate(135)" fill="#fff"/>
+      <text id="q1_2022" data-name="q1
+2022" transform="translate(105.432 101.51) rotate(90)" fill="#13132e" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-16.919" y="0">q1</tspan><tspan x="-32.344" y="37">2022</tspan></text>
+    </g>
+    <g id="Group_159" data-name="Group 159" transform="translate(912.32 501.772)">
+      <path id="Path_10008-3" data-name="Path 10008" d="M200.44,170.228A87.086,87.086,0,1,0,93.461,254.945l19.893,26.72,19.893-26.72A87.057,87.057,0,0,0,200.44,170.228Z" transform="translate(212.205 270.432) rotate(180)" fill="#fde339"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="73.899" cy="73.899" r="73.899" transform="translate(-5.656 99.852) rotate(-45)" fill="#dbdbdb"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="58.475" cy="58.475" r="58.475" transform="translate(16.158 99.852) rotate(-45)" fill="#fff"/>
+      <text id="q2_2022" data-name="q2
+2022" transform="translate(92.273 99.78) rotate(-90)" fill="#13132e" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-16.919" y="0">q2</tspan><tspan x="-32.344" y="37">2022</tspan></text>
+    </g>
+    <g id="Group_3022" data-name="Group 3022" transform="translate(1738.318 501.772)">
+      <path id="Path_10008-4" data-name="Path 10008" d="M200.44,170.228A87.086,87.086,0,1,0,93.461,254.945l19.893,26.72,19.893-26.72A87.057,87.057,0,0,0,200.44,170.228Z" transform="translate(212.205 270.432) rotate(180)" fill="#09d900"/>
+      <circle id="Ellipse_11-2" data-name="Ellipse 11" cx="73.899" cy="73.899" r="73.899" transform="translate(-5.656 99.852) rotate(-45)" fill="#dbdbdb"/>
+      <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="58.475" cy="58.475" r="58.475" transform="translate(16.158 99.852) rotate(-45)" fill="#fff"/>
+      <text id="q4_2022" data-name="q4
+2022" transform="translate(92.273 99.78) rotate(-90)" fill="#13132e" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-16.919" y="0">q4</tspan><tspan x="-32.344" y="37">2022</tspan></text>
+    </g>
+    <g id="Group_160" data-name="Group 160" transform="translate(1523.025 707.693) rotate(180)">
+      <path id="Path_10008-5" data-name="Path 10008" d="M200.44,170.228A87.086,87.086,0,1,0,93.461,254.945l19.893,26.72,19.893-26.72A87.057,87.057,0,0,0,200.44,170.228Z" transform="translate(212.205 269.432) rotate(180)" fill="#23b6e1"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="73.899" cy="73.899" r="73.899" transform="translate(203.362 99.438) rotate(135)" fill="#dbdbdb"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="58.475" cy="58.475" r="58.475" transform="translate(181.548 99.438) rotate(135)" fill="#fff"/>
+      <text id="mar_30" data-name="mar
+30" transform="translate(105.433 99.51) rotate(90)" fill="#13132e" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-25.767" y="0">mar</tspan><tspan x="-16.172" y="37">30</tspan></text>
+    </g>
+    <g id="Group_2980" data-name="Group 2980" transform="translate(1523.025 707.693) rotate(180)">
+      <path id="Path_10008-6" data-name="Path 10008" d="M200.44,170.228A87.086,87.086,0,1,0,93.461,254.945l19.893,26.72,19.893-26.72A87.057,87.057,0,0,0,200.44,170.228Z" transform="translate(212.205 269.432) rotate(180)" fill="#53e5ff"/>
+      <circle id="Ellipse_13-2" data-name="Ellipse 13" cx="73.899" cy="73.899" r="73.899" transform="translate(203.362 99.438) rotate(135)" fill="#dbdbdb"/>
+      <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="58.475" cy="58.475" r="58.475" transform="translate(181.548 99.438) rotate(135)" fill="#fff"/>
+      <text id="q3_2022" data-name="q3
+2022" transform="translate(105.433 99.51) rotate(90)" fill="#13132e" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-16.919" y="0">q3</tspan><tspan x="-32.344" y="37">2022</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -6,7 +6,7 @@ export default function CollectionPage() {
 
             <section className="section-head">
                 <div className="container">
-                    <img src="assets/images/GRAY'S COLLECTION.png" />
+                    <img src="/assets/images/GRAY'S COLLECTION.png" />
                     {/* <!-- <div className="banner">
 			<div className="info-wr">
 				<p className="sup_text">Gary's Collection</p>

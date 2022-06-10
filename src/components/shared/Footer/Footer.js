@@ -13,7 +13,8 @@ export default function Footer() {
 		</div>
 		<div className="footer-widget flex">
 			<div className="footer footer1">
-				<a href="#"><img src="assets/images/Group 3186.png" /></a>
+				<a href="#">
+					<img src="/assets/images/Group 3186.png" /></a>
 			</div>
 			<div className="footer footer2">
 				<div className="nav">
