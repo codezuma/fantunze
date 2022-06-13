@@ -11,6 +11,7 @@ import {
 import CollectionPage from './components/shared/Pages/CollectionPage';
 import TokenPage from './components/shared/Pages/TokenPage';
 import BookGames from './components/shared/Pages/BookGames';
+import HomePage from './components/shared/Pages/HomePage';
 
 function App() {
   return (
@@ -18,8 +19,9 @@ function App() {
       <BrowserRouter>
       <Navbar></Navbar>
         <Routes>
-          <Route path="/collection" element={<CollectionPage />} />
           <Route path="token" element={<TokenPage />} />
+          <Route path="collection" element={<CollectionPage />} />
+          <Route path="" element={<HomePage />} />
           <Route path="book" element={<BookGames />} />
         </Routes>
         <FaqSection></FaqSection>

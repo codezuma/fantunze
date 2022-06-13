@@ -12,7 +12,7 @@ export default function NavBar() {
             <div className="navigation">
                 <ul className="flex">
                     <li className="active"><Link to="/">HOME</Link></li>   
-                    <li><Link to="/whitepaper">WHITEPAPER</Link></li>   
+                    <li><Link to="/book">WHITEPAPER</Link></li>   
                     <li><Link to="/token">TOKENS</Link></li>   
                     <li><Link to="/collection">COLLECTION</Link></li>   
                 </ul>
