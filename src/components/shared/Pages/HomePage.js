@@ -325,7 +325,7 @@ export default function HomePage() {
                         </div>
                     </div>
                 </div>
-                <OwlCarousel className="recent-slider products owl-carousel">
+                <OwlCarousel {...recentSlider} className="recent-slider products owl-carousel">
                     <div className="product recents">
                         <img src="assets/images/zak-7wBFsHWQDlk-unsplash.png" />
                         <div className="product-info">
