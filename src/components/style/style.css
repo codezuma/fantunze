@@ -83,7 +83,7 @@ span.sku { background-color: #fff; display: inline-block; border-radius: 20px; p
 p.cat { font: normal normal 600 16px/26px Montserrat; text-transform: uppercase; color: #949494; }
 p.type { font: normal normal 500 16px/25px Rubik; color: #13132E; }
 .token__info h4,.product-info h3 { font: normal normal bold 20px/30px Montserrat; color: #13132E; }
-.pagination { display: flex; justify-content: center; align-items: center; margin-top: 30px; }
+.pagination { display: flex; justify-content: center; align-items: center; margin-top: 30px; flex-wrap: wrap; }
 .pagination a.btn { background-color: #1cdc14; color: white; border-radius: 8px; padding: 10px 15px; }
 .pagination a { color: #C4C4C4; float: left; padding: 8px 16px; text-decoration: none; transition: background-color .3s; }
 .pagination a.active, .pagination a:hover:not(.active) { color: #13132E; font-weight: 600; }
@@ -208,6 +208,7 @@ section.divide-sec::before, section.divide-sec::after {
 
 
 
+
 /********************************/
 section.token-wrapper { margin: 100px 0; }
 .token__wr { display: flex; flex-wrap: wrap; }
@@ -235,7 +236,7 @@ section.token-wrapper h1::before{bottom: 0;}
     margin: 0 1% 2%;
     border: 1px solid #BBBBBB;
 }
-.token__wr .token:nth-child(4n) { margin-right: 0; }
+
 .token__info { padding: 10px 15px 0; background-color: #fff; }
 .token__info a.move-btn { position: absolute; left: 15px; right: 15px; bottom: -50px; }
 .token__wr .token:hover .token__info { transform: translateY(-50px); transition: all 0.35s ease-in; }
@@ -257,9 +258,11 @@ section.token-wrapper h1::before{bottom: 0;}
 .collection-sidebar .sidebar.search button { border: none; position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: transparent; appearance: none; }
 .collection-sidebar .sidebar.search button i { font-size: 20px; color: #09d900; background: transparent; }
 .collection-sidebar .sidebar ul.cat span { display: inline-block; width: 20px; height: 20px; vertical-align: middle; border-radius: 50%; border: 1px solid #ccc; margin-right: 10px; }
-.product-with-sidebaar p.cat { color: #23B6E1; }
+.product-with-sidebaar p.cat { color: #23B6E1;font-size: 14px; }
 span.filter-wr { display: none; }
-
+.product-with-sidebaar .products__wr .product>img{min-height: 250px; height: 250px;}
+.product-with-sidebaar .product-info h3 { font-size: 16px; }
+.product-with-sidebaar .product-info span.sku { font-size: 12px; padding: 2px 10px; }
 
 
 
@@ -323,3 +326,6 @@ section.blog-wrapper .container>* .sec-head { top: -125px; }
     color: #00E640;
     text-transform: uppercase;
 }
+section.product-wrapper.token-wrapper h1 { text-transform: lowercase; }
+
+section.product-wrapper .product { width: 22%; }

@@ -1,6 +1,12 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 export default function CollectionPage() {
+    useEffect(()=>{
+        var sidebar = document.getElementById("filter");
+		sidebar.addEventListener("click", function () {
+			this.nextElementSibling.classList.toggle("mystyle");
+		});
+    })
     return (
         <>
 
